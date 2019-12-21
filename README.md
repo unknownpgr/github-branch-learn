@@ -1,4 +1,4 @@
-# What i learned
+# What I learned
 ## How to name a github repository?
 1. Describe your project.
 2. Use '-' than '_'. '_' is harder to type.
