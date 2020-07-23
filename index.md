@@ -19,3 +19,7 @@ Then check what happens.
 
 
 Cecks
+
+<script>
+  alert('this is alert')
+</script>
